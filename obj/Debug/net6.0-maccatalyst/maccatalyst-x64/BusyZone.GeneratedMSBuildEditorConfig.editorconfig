@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BusyZone
+build_property.ProjectDir = /Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/
+
+[/Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BusyZone.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BusyZone.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/PageViews/AddProductsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BusyZone.PageViews.AddProductsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PageViews/AddProductsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PageViews/AddProductsPage.xaml
+
+[/Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/PageViews/Busyloginpage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BusyZone.PageViews.Busyloginpage.xaml
+build_metadata.AdditionalFiles.TargetPath = PageViews/Busyloginpage.xaml
+build_metadata.AdditionalFiles.RelativePath = PageViews/Busyloginpage.xaml
+
+[/Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/PageViews/Busynewuser.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BusyZone.PageViews.Busynewuser.xaml
+build_metadata.AdditionalFiles.TargetPath = PageViews/Busynewuser.xaml
+build_metadata.AdditionalFiles.RelativePath = PageViews/Busynewuser.xaml
+
+[/Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/PageViews/Busypassrest.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BusyZone.PageViews.Busypassrest.xaml
+build_metadata.AdditionalFiles.TargetPath = PageViews/Busypassrest.xaml
+build_metadata.AdditionalFiles.RelativePath = PageViews/Busypassrest.xaml
+
+[/Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/PageViews/BusyProductDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BusyZone.PageViews.BusyProductDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PageViews/BusyProductDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PageViews/BusyProductDetailsPage.xaml
+
+[/Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/PageViews/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BusyZone.PageViews.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PageViews/MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PageViews/MainPage.xaml
+
+[/Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/PageViews/Messages.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BusyZone.PageViews.Messages.xaml
+build_metadata.AdditionalFiles.TargetPath = PageViews/Messages.xaml
+build_metadata.AdditionalFiles.RelativePath = PageViews/Messages.xaml
+
+[/Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/PageViews/Userlist.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BusyZone.PageViews.Userlist.xaml
+build_metadata.AdditionalFiles.TargetPath = PageViews/Userlist.xaml
+build_metadata.AdditionalFiles.RelativePath = PageViews/Userlist.xaml
+
+[/Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/PageViews/Userprofile.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BusyZone.PageViews.Userprofile.xaml
+build_metadata.AdditionalFiles.TargetPath = PageViews/Userprofile.xaml
+build_metadata.AdditionalFiles.RelativePath = PageViews/Userprofile.xaml
+
+[/Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BusyZone.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/emmanuelmorrison/Documents/Development Project/Maisons/BusyZone/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BusyZone.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml

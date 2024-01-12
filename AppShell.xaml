@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="BusyZone.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:BusyZone.PageViews"
+    Shell.FlyoutBehavior="Disabled">
+
+   <!--<ShellContent
+            Title="Home"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" /> -->
+
+   <TabBar>
+        <ShellContent
+            Icon="home.svg"
+            ContentTemplate="{DataTemplate local:MainPage}"/>
+
+        <ShellContent
+            Icon="list.svg"
+            ContentTemplate="{DataTemplate local:AddProductsPage}"/>
+
+        <ShellContent
+            Icon="mail.svg"
+            ContentTemplate="{DataTemplate local:Messages}"/>
+
+        <ShellContent
+            Icon="user.svg"
+            ContentTemplate="{DataTemplate local:Userprofile}"/>
+   
+    </TabBar>
+
+
+    
+
+
+</Shell>
+

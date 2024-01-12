@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BusyZone.PageViews.AddProductsPage"
+             xmlns:ViewModel="clr-namespace:BusyZone.ViewModels"
+             x:DataType="ViewModel:AddProductsPageViewModel"
+             Title="AddProductsPage">
+
+    <StackLayout Margin="20">
+         <Grid Margin="0,5,0,25">
+                 <Frame 
+                    BorderColor="{StaticResource White}"
+                    Opacity="0.3"
+                    HasShadow="True"
+                    HeightRequest="45"
+                    Padding="0"
+                    CornerRadius="5"
+                    HorizontalOptions="FillAndExpand"
+                    BackgroundColor="{StaticResource White}" >
+
+                <Entry Text="{Binding ProductTitle}"
+                        Placeholder="Enter Product Title"
+                        Keyboard="Text"
+                        Margin="5,0"
+                        VerticalOptions="Center"
+                        IsTextPredictionEnabled="True"
+                        BackgroundColor="Transparent"
+                        PlaceholderColor="{StaticResource Primary}"
+                        ClearButtonVisibility="WhileEditing"
+                        TextColor="{StaticResource Primary}"/>
+                     </Frame>
+             </Grid>
+         <Grid Margin="0,5,0,25">
+               <Frame 
+                    BorderColor="{StaticResource White}"
+                    Opacity="0.3"
+                    HasShadow="True"
+                    HeightRequest="45"
+                    MaximumHeightRequest="150"
+                    Padding="0"
+                    CornerRadius="5"
+                    HorizontalOptions="FillAndExpand"
+                    BackgroundColor="{StaticResource White}" >
+
+                <Editor Text="{Binding ProductDetail}"
+                        Placeholder="Enter Product Detials"
+                        Keyboard="Text"
+                        Margin="5,0"
+                        VerticalOptions="Center"
+                        IsTextPredictionEnabled="True"
+                        BackgroundColor="Transparent"
+                        PlaceholderColor="{StaticResource Primary}"
+                        TextColor="{StaticResource Primary}"/>
+          </Frame>
+             </Grid>
+         <Grid Margin="0,5,0,25">
+        <Frame 
+                    BorderColor="{StaticResource White}"
+                    Opacity="0.3"
+                    HasShadow="True"
+                    HeightRequest="45"
+                    Padding="0"
+                    CornerRadius="5"
+                    HorizontalOptions="FillAndExpand"
+                    BackgroundColor="{StaticResource White}" >
+
+                <Entry Text="{Binding ProductCat}"
+                        Placeholder="Enter Product Category"
+                        Keyboard="Text"
+                        Margin="5,0"
+                        VerticalOptions="Center"
+                        IsTextPredictionEnabled="True"
+                        BackgroundColor="Transparent"
+                        PlaceholderColor="{StaticResource Primary}"
+                        ClearButtonVisibility="WhileEditing"
+                        TextColor="{StaticResource Primary}" />
+            </Frame>
+             </Grid>
+              <Grid Margin="0,5,0,25">
+
+        <Frame 
+                    BorderColor="{StaticResource White}"
+                    Opacity="0.3"
+                    HasShadow="True"
+                    HeightRequest="45"
+                    Padding="0"
+                    CornerRadius="5"
+                    HorizontalOptions="FillAndExpand"
+                    BackgroundColor="{StaticResource White}" >
+
+                <Entry Text="{Binding ProductImageLink}"
+                      Placeholder="Enter Image Link"
+                        Keyboard="Text"
+                        Margin="5,0"
+                        VerticalOptions="Center"
+                        IsTextPredictionEnabled="True"
+                        BackgroundColor="Transparent"
+                        PlaceholderColor="{StaticResource Primary}"
+                        ClearButtonVisibility="WhileEditing"
+                        TextColor="{StaticResource Primary}" />
+            </Frame>
+                  </Grid>
+ <Grid Margin="0,5,0,25">
+        <Frame 
+                    BorderColor="{StaticResource White}"
+                    Opacity="0.3"
+                    HasShadow="True"
+                    HeightRequest="45"
+                    Padding="0"
+                    CornerRadius="5"
+                    HorizontalOptions="FillAndExpand"
+                    BackgroundColor="{StaticResource White}" >
+
+                <Entry Text="{Binding ProductStock}"
+                      Placeholder="Enter Stock"
+                        Keyboard="Number"
+                        Margin="5,0"
+                        VerticalOptions="Center"
+                        IsTextPredictionEnabled="True"
+                        BackgroundColor="Transparent"
+                        PlaceholderColor="{StaticResource Primary}"
+                        ClearButtonVisibility="WhileEditing"
+                        TextColor="{StaticResource Primary}" />
+            </Frame>
+     </Grid>
+         <Grid Margin="0,5,0,25">
+        <Frame 
+                    BorderColor="{StaticResource White}"
+                    Opacity="0.3"
+                    HasShadow="True"
+                    HeightRequest="45"
+                    Padding="0"
+                    CornerRadius="5"
+                    HorizontalOptions="FillAndExpand"
+                    BackgroundColor="{StaticResource White}" >
+
+                <Entry
+                    Text="{Binding ProductPrice}"
+                    Placeholder="Enter Product Price"
+                    Keyboard=""
+                    Margin="5,0"
+                    VerticalOptions="Center"
+                    IsTextPredictionEnabled="True"
+                    BackgroundColor="Transparent"
+                    PlaceholderColor="{StaticResource Primary}"
+                    ClearButtonVisibility="WhileEditing"
+                    TextColor="{StaticResource Primary}" />
+            </Frame>
+             </Grid>
+
+            <Button
+                    Margin="0,20"
+                    Text="Add Products"
+                    FontSize="20"
+                    Command="{Binding InsertProducts}"
+                    HorizontalOptions="FillAndExpand"
+                    Style="{StaticResource ButtonStyle}"/>
+
+    </StackLayout>
+</ContentPage>

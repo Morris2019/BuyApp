@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ViewModel="clr-namespace:BusyZone.ViewModels"
+             x:Class="BusyZone.PageViews.Busypassrest"
+             Shell.TabBarIsVisible="False"
+             Shell.FlyoutItemIsVisible="False"
+             x:DataType="ViewModel:BusypassrestViewModel">
+
+  <Grid
+        BackgroundColor="{StaticResource Primary}"
+        RowDefinitions="Auto, *">
+ 
+        <Label 
+            Text="BuzyZone"
+            VerticalOptions="CenterAndExpand"
+            HorizontalOptions="StartAndExpand"
+            FontSize="36"
+            Margin="10,60,0,30"
+            Style="{StaticResource TitleTextStyle}" />
+
+        <Grid
+            Grid.Row="1"
+            RowDefinitions="Auto,Auto,Auto,*">
+             <BoxView
+                Grid.RowSpan="4"
+                Style="{StaticResource LoginBox}"/>
+
+                <Label
+                    Grid.Row="0"
+                    Text="Forgot Password"
+                    TextColor="{StaticResource Primary}"
+                    FontSize="26"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="StartAndExpand"
+                    Margin="20,50,0,50"
+                    Style="{StaticResource TitleTextStyle}" />
+
+            <StackLayout Grid.Row="1"
+                         Margin="20">
+
+                <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand"
+                             VerticalOptions="CenterAndExpand"
+                             >
+                    <Label
+                        Text="Email"
+                        TextColor="{StaticResource Primary}"
+                        FontSize="16"
+                        VerticalOptions="CenterAndExpand"
+                        HorizontalOptions="StartAndExpand"
+                        Style="{StaticResource TitleTextStyle}" />
+                    <Grid Margin="0,5,0,25">
+                        <Frame BorderColor="{StaticResource Primary}"
+                               Opacity="0.3"
+                               CornerRadius="5"
+                               BackgroundColor="{StaticResource White}"/>
+
+                        <Entry Text="{Binding Passcodereset}"
+                               Placeholder="Email"
+                               Keyboard="Email"
+                               Margin="5,0"
+                               IsTextPredictionEnabled="True"
+                               BackgroundColor="Transparent"
+                               PlaceholderColor="{StaticResource Secondary}"
+                               ClearButtonVisibility="WhileEditing"
+                               TextColor="{StaticResource Primary}" />
+
+                    </Grid>
+
+                 
+                   </StackLayout>
+                <Button
+                    Margin="0,20"
+                    Text="Reset Password"
+                    Command="{Binding PasswordResetComm}"
+                    FontSize="20"
+                    HorizontalOptions="FillAndExpand"
+                    Style="{StaticResource ButtonStyle}"/>
+            </StackLayout>
+         </Grid>
+
+    </Grid>
+  
+</ContentPage>

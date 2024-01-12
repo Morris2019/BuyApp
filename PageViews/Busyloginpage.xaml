@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ViewModel="clr-namespace:BusyZone.ViewModels"
+             x:Class="BusyZone.PageViews.Busyloginpage"
+             Shell.NavBarIsVisible="False"
+             Shell.TabBarIsVisible="False"
+             Shell.FlyoutItemIsVisible="False"
+             x:DataType="ViewModel:BusyloginpageViewModel">
+
+
+    <Grid
+        BackgroundColor="{StaticResource Primary}"
+        RowDefinitions="Auto, *">
+ 
+        <Label 
+            Text="BuzyZone"
+            VerticalOptions="CenterAndExpand"
+            HorizontalOptions="StartAndExpand"
+            FontSize="36"
+            Margin="10,90,0,30"
+            Style="{StaticResource TitleTextStyle}" />
+
+        <Grid
+            Grid.Row="1"
+            RowDefinitions="Auto,Auto,Auto,*">
+             <BoxView
+                Grid.RowSpan="4"
+                Style="{StaticResource LoginBox}"/>
+
+                <Label
+                    Grid.Row="0"
+                    Text="Sign In"
+                    TextColor="{StaticResource Primary}"
+                    FontSize="26"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="StartAndExpand"
+                    Margin="20,50,0,50"
+                    Style="{StaticResource TitleTextStyle}" />
+
+            <StackLayout Grid.Row="1"
+                         Margin="20">
+
+                <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand"
+                             VerticalOptions="CenterAndExpand" >
+                
+                    <Grid Margin="0,5,0,25">
+                        <StackLayout Orientation="Horizontal">
+                            <Frame BorderColor="{StaticResource White}"
+                                   Opacity="0.3"
+                                   ZIndex="1"
+                                   CornerRadius="28"
+                                   HasShadow="True"
+                                   HeightRequest="56"
+                                   WidthRequest="56"
+                                   BackgroundColor="{StaticResource White}">
+
+                                <Image
+                                    Source="user.svg"
+                                    HeightRequest="20"
+                                    WidthRequest="20" />
+
+                            </Frame>
+                        <Frame BorderColor="{StaticResource White}"
+                               Opacity="0.3"
+                               HasShadow="True"
+                               HeightRequest="45"
+                               Margin="-20,0,0,0"
+                               Padding="0"
+                               CornerRadius="5"
+                               HorizontalOptions="FillAndExpand"
+                               BackgroundColor="{StaticResource White}">
+
+                        <Entry Placeholder="Enter Email"
+                               Text="{Binding UserEmail}"
+                               Keyboard="Email"
+                               Margin="22,0,0,0"
+                               VerticalOptions="Center"
+                               IsTextPredictionEnabled="True"
+                               BackgroundColor="Transparent"
+                               PlaceholderColor="{StaticResource Primary}"
+                               ClearButtonVisibility="WhileEditing"
+                               TextColor="{StaticResource Primary}" />
+                            </Frame>
+                        </StackLayout>
+                    </Grid>
+
+                    <Grid Margin="0,5">
+                         <StackLayout Orientation="Horizontal">
+                            <Frame BorderColor="{StaticResource White}"
+                                   Opacity="0.3"
+                                   ZIndex="1"
+                                   CornerRadius="28"
+                                   HasShadow="True"
+                                   HeightRequest="56"
+                                   WidthRequest="56"
+                                   BackgroundColor="{StaticResource White}">
+
+                                <Image
+                                    Source="lock.svg"
+                                    HeightRequest="20"
+                                    WidthRequest="20" />
+
+                            </Frame>
+                            <Frame BorderColor="{StaticResource White}"
+                                    Opacity="0.3"
+                                    HasShadow="True"
+                                    HeightRequest="45"
+                                    Margin="-20,0,0,0"
+                                    Padding="0"
+                                    CornerRadius="5"
+                                    HorizontalOptions="FillAndExpand"
+                                    BackgroundColor="{StaticResource White}">
+
+                            <Entry
+                                Placeholder="Enter Password"
+                                Text="{Binding UserPassword}"
+                                Keyboard="Text"
+                                Margin="22,0,0,0"
+                                VerticalOptions="Center"
+                                IsTextPredictionEnabled="True"
+                                BackgroundColor="Transparent"
+                                PlaceholderColor="{StaticResource Primary}"
+                                ClearButtonVisibility="WhileEditing"
+                                TextColor="{StaticResource Primary}"
+                                IsPassword="True"/>
+                           </Frame>
+                          </StackLayout>
+                    </Grid>
+                     <Label
+                        Text="Forgot Password?"
+                        TextColor="{StaticResource Primary}"
+                        FontSize="16"
+                        VerticalOptions="CenterAndExpand"
+                        HorizontalOptions="EndAndExpand"
+                        Style="{StaticResource TitleTextStyle}">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding Forgetpasscode}"/>
+                        </Label.GestureRecognizers>
+                     </Label>
+                   </StackLayout>
+                <Button
+                    Margin="0,20"
+                    Text="Sign In"
+                    FontSize="20"
+                    Command="{Binding LoginCommand}"
+                    HorizontalOptions="FillAndExpand"
+                    Style="{StaticResource ButtonStyle}"/>
+            </StackLayout>
+
+             <Label
+                Grid.Row="3"
+                Margin="10,20"
+                VerticalOptions="EndAndExpand"
+                HorizontalOptions="CenterAndExpand">
+
+                <Label.FormattedText>
+                  <FormattedString>
+                    <Span Text="Don't have an account?"
+                          FontFamily="Metropolis Medium"
+                          TextColor="{StaticResource Primary}"
+                          FontSize="18"/>
+
+                    <Span Text=" Sign Up"
+                          FontFamily="Metropolis Medium"
+                          TextColor="{StaticResource Tertiary}"
+                          FontSize="18"/>
+
+                    </FormattedString>
+                 </Label.FormattedText>
+                   <Label.GestureRecognizers>
+                      <TapGestureRecognizer Command="{Binding BuzyNewUser}"/> 
+                   </Label.GestureRecognizers>
+             </Label>
+         </Grid>
+
+    </Grid>
+ 
+ </ContentPage>

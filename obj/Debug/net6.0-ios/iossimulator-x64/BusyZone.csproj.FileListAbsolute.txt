@@ -1,0 +1,650 @@
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/BusyZone.runtimeconfig.json
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/BusyZone.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/BusyZone.pdb
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/CommunityToolkit.Mvvm.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Configuration.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.DependencyInjection.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Logging.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Options.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Primitives.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Maui.Graphics.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Newtonsoft.Json.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLite-net.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLiteNetExtensions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLiteNetExtensionsAsync.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLitePCLRaw.batteries_v2.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLitePCLRaw.core.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLitePCLRaw.provider.sqlite3.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.CSharp.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.VisualBasic.Core.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.VisualBasic.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Win32.Primitives.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Win32.Registry.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.AppContext.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Buffers.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Collections.Concurrent.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Collections.Immutable.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Collections.NonGeneric.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Collections.Specialized.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Collections.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ComponentModel.Annotations.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ComponentModel.DataAnnotations.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ComponentModel.EventBasedAsync.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ComponentModel.Primitives.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ComponentModel.TypeConverter.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ComponentModel.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Configuration.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Console.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Core.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Data.Common.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Data.DataSetExtensions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Data.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.Contracts.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.Debug.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.DiagnosticSource.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.FileVersionInfo.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.Process.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.StackTrace.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.Tools.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.TraceSource.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.Tracing.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Drawing.Primitives.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Drawing.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Dynamic.Runtime.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Formats.Asn1.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Globalization.Calendars.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Globalization.Extensions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Globalization.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.Compression.Brotli.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.Compression.FileSystem.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.Compression.ZipFile.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.Compression.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.FileSystem.AccessControl.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.FileSystem.DriveInfo.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.FileSystem.Primitives.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.FileSystem.Watcher.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.FileSystem.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.IsolatedStorage.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.MemoryMappedFiles.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.Pipes.AccessControl.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.Pipes.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.UnmanagedMemoryStream.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Linq.Expressions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Linq.Parallel.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Linq.Queryable.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Linq.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Memory.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Http.Json.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Http.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.HttpListener.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Mail.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.NameResolution.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.NetworkInformation.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Ping.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Primitives.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Quic.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Requests.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Security.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.ServicePoint.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Sockets.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.WebClient.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.WebHeaderCollection.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.WebProxy.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.WebSockets.Client.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.WebSockets.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Numerics.Vectors.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Numerics.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ObjectModel.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Private.DataContractSerialization.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Private.Uri.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Private.Xml.Linq.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Private.Xml.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.DispatchProxy.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.Emit.ILGeneration.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.Emit.Lightweight.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.Emit.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.Extensions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.Metadata.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.Primitives.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.TypeExtensions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Resources.Reader.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Resources.ResourceManager.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Resources.Writer.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.CompilerServices.VisualC.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Extensions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Handles.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.InteropServices.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Intrinsics.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Loader.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Numerics.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Serialization.Formatters.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Serialization.Json.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Serialization.Primitives.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Serialization.Xml.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Serialization.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.AccessControl.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Claims.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.Algorithms.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.Cng.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.Csp.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.Encoding.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.OpenSsl.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.Primitives.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.X509Certificates.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Principal.Windows.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Principal.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.SecureString.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ServiceModel.Web.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ServiceProcess.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Text.Encoding.CodePages.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Text.Encoding.Extensions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Text.Encoding.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Text.Encodings.Web.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Text.Json.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Text.RegularExpressions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Channels.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Overlapped.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Tasks.Dataflow.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Tasks.Extensions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Tasks.Parallel.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Tasks.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Thread.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.ThreadPool.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Timer.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Transactions.Local.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Transactions.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ValueTuple.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Web.HttpUtility.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Web.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Windows.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.Linq.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.ReaderWriter.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.Serialization.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.XDocument.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.XPath.XDocument.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.XPath.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.XmlDocument.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.XmlSerializer.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/WindowsBase.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/mscorlib.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/netstandard.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Maui.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Maui.Controls.Compatibility.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Maui.Controls.Xaml.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Maui.Controls.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Maui.Essentials.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.iOS.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Private.CoreLib.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/icudt.dat
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/icudt_CJK.dat
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/icudt_EFIGS.dat
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/icudt_no_CJK.dat
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.IO.Compression.Native.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.IO.Compression.Native.dylib
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.Native.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.Native.dylib
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.Net.Security.Native.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.Net.Security.Native.dylib
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.Security.Cryptography.Native.Apple.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.Security.Cryptography.Native.Apple.dylib
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libicudata.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libicui18n.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libicuuc.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-debugger-static.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-debugger-stub-static.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-debugger.dylib
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-diagnostics_tracing-static.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-diagnostics_tracing-stub-static.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-diagnostics_tracing.dylib
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-hot_reload-static.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-hot_reload-stub-static.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-hot_reload.dylib
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmonosgen-2.0.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmonosgen-2.0.dylib
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.iOS.registrar.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libextension-dotnet.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libxamarin-dotnet-debug.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libxamarin-dotnet-debug.dylib
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libxamarin-dotnet.a
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libxamarin-dotnet.dylib
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/mauiimage.inputs
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/mauifont.inputs
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/mauisplash.inputs
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/sp/MauiSplash.storyboard
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/mauisplash.stamp
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/bell.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/bell@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/bell@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/cart.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/cart@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/cart@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/edit.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/edit@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/edit@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/favorite.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/favorite@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/favorite@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/history.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/history@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/history@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/home.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/home@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/home@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/list.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/list@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/list@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/location.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/location@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/location@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/lock.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/lock@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/lock@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/logout.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/logout@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/logout@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/mail.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/mail@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/mail@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/menu.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/menu@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/menu@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/more.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/more@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/more@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/payment.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/payment@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/payment@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Resources/hard.jpeg
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Resources/icon_star.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/settings.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/settings@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/settings@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/splash.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/splash@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/splash@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/user.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/user@2x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/user@3x.png
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/mauiimage.stamp
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/MauiInfo.plist
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/mauifont.stamp
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/Metropolis-Medium.otf
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Regular.ttf
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Semibold.ttf
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/actool/_PartialAppManifest.items
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/actool/_BundleResourceWithLogicalName.items
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/actool/_ProcessedImageAssetsPath.items
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/ibtool/_BundleResourceWithLogicalName.items
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/coremlc/_PartialAppManifest.items
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/coremlc/_BundleResourceWithLogicalName.items
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/_ProcessedBundleResourcesPath.items
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/_ProcessedContentPath.items
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.csproj.AssemblyReference.cache
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.AssemblyInfoInputs.cache
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.AssemblyInfo.cs
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.csproj.CoreCompileInputs.cache
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/XamlC.stamp
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.csproj.CopyComplete
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/refint/BusyZone.dll
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.pdb
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.genruntimeconfig.cache
+/Users/emmanuelmorrison/Documents/Development Project/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/ref/BusyZone.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/BusyZone.runtimeconfig.json
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/BusyZone.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/BusyZone.pdb
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/CommunityToolkit.Mvvm.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Configuration.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.DependencyInjection.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Logging.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Options.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Primitives.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Maui.Graphics.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Newtonsoft.Json.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLite-net.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLiteNetExtensions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLiteNetExtensionsAsync.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLitePCLRaw.batteries_v2.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLitePCLRaw.core.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/SQLitePCLRaw.provider.sqlite3.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.CSharp.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.VisualBasic.Core.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.VisualBasic.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Win32.Primitives.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Win32.Registry.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.AppContext.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Buffers.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Collections.Concurrent.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Collections.Immutable.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Collections.NonGeneric.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Collections.Specialized.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Collections.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ComponentModel.Annotations.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ComponentModel.DataAnnotations.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ComponentModel.EventBasedAsync.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ComponentModel.Primitives.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ComponentModel.TypeConverter.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ComponentModel.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Configuration.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Console.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Core.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Data.Common.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Data.DataSetExtensions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Data.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.Contracts.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.Debug.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.DiagnosticSource.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.FileVersionInfo.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.Process.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.StackTrace.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.Tools.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.TraceSource.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Diagnostics.Tracing.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Drawing.Primitives.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Drawing.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Dynamic.Runtime.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Formats.Asn1.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Globalization.Calendars.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Globalization.Extensions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Globalization.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.Compression.Brotli.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.Compression.FileSystem.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.Compression.ZipFile.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.Compression.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.FileSystem.AccessControl.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.FileSystem.DriveInfo.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.FileSystem.Primitives.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.FileSystem.Watcher.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.FileSystem.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.IsolatedStorage.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.MemoryMappedFiles.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.Pipes.AccessControl.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.Pipes.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.UnmanagedMemoryStream.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.IO.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Linq.Expressions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Linq.Parallel.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Linq.Queryable.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Linq.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Memory.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Http.Json.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Http.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.HttpListener.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Mail.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.NameResolution.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.NetworkInformation.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Ping.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Primitives.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Quic.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Requests.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Security.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.ServicePoint.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.Sockets.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.WebClient.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.WebHeaderCollection.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.WebProxy.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.WebSockets.Client.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.WebSockets.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Net.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Numerics.Vectors.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Numerics.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ObjectModel.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Private.DataContractSerialization.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Private.Uri.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Private.Xml.Linq.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Private.Xml.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.DispatchProxy.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.Emit.ILGeneration.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.Emit.Lightweight.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.Emit.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.Extensions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.Metadata.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.Primitives.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.TypeExtensions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Reflection.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Resources.Reader.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Resources.ResourceManager.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Resources.Writer.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.CompilerServices.VisualC.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Extensions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Handles.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.InteropServices.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Intrinsics.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Loader.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Numerics.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Serialization.Formatters.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Serialization.Json.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Serialization.Primitives.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Serialization.Xml.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.Serialization.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Runtime.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.AccessControl.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Claims.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.Algorithms.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.Cng.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.Csp.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.Encoding.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.OpenSsl.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.Primitives.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Cryptography.X509Certificates.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Principal.Windows.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.Principal.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.SecureString.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Security.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ServiceModel.Web.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ServiceProcess.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Text.Encoding.CodePages.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Text.Encoding.Extensions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Text.Encoding.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Text.Encodings.Web.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Text.Json.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Text.RegularExpressions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Channels.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Overlapped.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Tasks.Dataflow.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Tasks.Extensions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Tasks.Parallel.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Tasks.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Thread.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.ThreadPool.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.Timer.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Threading.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Transactions.Local.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Transactions.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.ValueTuple.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Web.HttpUtility.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Web.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Windows.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.Linq.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.ReaderWriter.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.Serialization.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.XDocument.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.XPath.XDocument.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.XPath.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.XmlDocument.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.XmlSerializer.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Xml.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/WindowsBase.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/mscorlib.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/netstandard.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Maui.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Maui.Controls.Compatibility.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Maui.Controls.Xaml.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Maui.Controls.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Maui.Essentials.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.iOS.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/System.Private.CoreLib.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/icudt.dat
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/icudt_CJK.dat
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/icudt_EFIGS.dat
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/icudt_no_CJK.dat
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.IO.Compression.Native.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.IO.Compression.Native.dylib
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.Native.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.Native.dylib
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.Net.Security.Native.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.Net.Security.Native.dylib
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.Security.Cryptography.Native.Apple.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libSystem.Security.Cryptography.Native.Apple.dylib
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libicudata.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libicui18n.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libicuuc.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-debugger-static.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-debugger-stub-static.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-debugger.dylib
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-diagnostics_tracing-static.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-diagnostics_tracing-stub-static.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-diagnostics_tracing.dylib
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-hot_reload-static.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-hot_reload-stub-static.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmono-component-hot_reload.dylib
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmonosgen-2.0.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libmonosgen-2.0.dylib
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.iOS.registrar.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libextension-dotnet.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libxamarin-dotnet-debug.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libxamarin-dotnet-debug.dylib
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libxamarin-dotnet.a
+/Users/emmanuelmorrison/Desktop/BusyZone/bin/Debug/net6.0-ios/iossimulator-x64/libxamarin-dotnet.dylib
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/mauiimage.inputs
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/mauifont.inputs
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/mauisplash.inputs
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/sp/MauiSplash.storyboard
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/mauisplash.stamp
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/bell.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/bell@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/bell@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/cart.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/cart@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/cart@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/edit.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/edit@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/edit@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/favorite.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/favorite@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/favorite@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/history.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/history@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/history@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/home.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/home@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/home@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/list.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/list@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/list@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/location.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/location@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/location@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/lock.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/lock@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/lock@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/logout.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/logout@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/logout@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/mail.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/mail@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/mail@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/menu.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/menu@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/menu@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/more.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/more@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/more@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/payment.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/payment@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/payment@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Resources/hard.jpeg
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Resources/icon_star.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/settings.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/settings@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/settings@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/splash.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/splash@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/splash@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/user.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/user@2x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/user@3x.png
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/mauiimage.stamp
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/MauiInfo.plist
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/mauifont.stamp
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/Metropolis-Medium.otf
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Regular.ttf
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Semibold.ttf
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/actool/_PartialAppManifest.items
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/actool/_BundleResourceWithLogicalName.items
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/actool/_ProcessedImageAssetsPath.items
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/ibtool/_BundleResourceWithLogicalName.items
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/coremlc/_PartialAppManifest.items
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/coremlc/_BundleResourceWithLogicalName.items
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/_ProcessedBundleResourcesPath.items
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/_ProcessedContentPath.items
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.csproj.AssemblyReference.cache
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.AssemblyInfoInputs.cache
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.AssemblyInfo.cs
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.csproj.CoreCompileInputs.cache
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/XamlC.stamp
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.csproj.CopyComplete
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/refint/BusyZone.dll
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.pdb
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/BusyZone.genruntimeconfig.cache
+/Users/emmanuelmorrison/Desktop/BusyZone/obj/Debug/net6.0-ios/iossimulator-x64/ref/BusyZone.dll

@@ -1,0 +1,128 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFrameworks>net6.0-android;net6.0-ios;net6.0-maccatalyst</TargetFrameworks>
+		<TargetFrameworks Condition="$([MSBuild]::IsOSPlatform('windows'))">$(TargetFrameworks);net6.0-windows10.0.19041.0</TargetFrameworks>
+		<!-- Uncomment to also build the tizen app. You will need to install tizen by following this: https://github.com/Samsung/Tizen.NET -->
+		<!-- <TargetFrameworks>$(TargetFrameworks);net6.0-tizen</TargetFrameworks> -->
+		<OutputType>Exe</OutputType>
+		<RootNamespace>BusyZone</RootNamespace>
+		<UseMaui>true</UseMaui>
+		<SingleProject>true</SingleProject>
+		<ImplicitUsings>enable</ImplicitUsings>
+
+		<!-- Display name -->
+		<ApplicationTitle>BusyZone</ApplicationTitle>
+
+		<!-- App Identifier -->
+		<ApplicationId>com.companyname.busyzone</ApplicationId>
+		<ApplicationIdGuid>85032B41-24A8-4F8C-81C8-5487F09286AF</ApplicationIdGuid>
+
+		<!-- Versions -->
+		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+		<ApplicationVersion>1</ApplicationVersion>
+
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'ios'">14.2</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'maccatalyst'">14.0</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'android'">21.0</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</SupportedOSPlatformVersion>
+		<TargetPlatformMinVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</TargetPlatformMinVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'tizen'">6.5</SupportedOSPlatformVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- App Icon -->
+		<MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#e68900" />
+
+		<!-- Splash Screen -->
+		<MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#e68900" BaseSize="128,128" />
+
+		<!-- Images -->
+		<MauiImage Include="Resources\Images\*" />
+		<MauiFont Include="Resources\Fonts\*" />
+
+		<!-- Raw Assets (also remove the "Resources\Raw" prefix) -->
+		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="Services\" />
+	  <None Remove="DataModel\" />
+	  <None Remove="Newtonsoft.Json" />
+	  <None Remove="sqlite-net-pcl" />
+	  <None Remove="PageViews\" />
+	  <None Remove="ViewModels\" />
+	  <None Remove="CommunityToolkit.Mvvm" />
+	  <None Remove="Images\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Services\" />
+	  <Folder Include="DataModel\" />
+	  <Folder Include="PageViews\" />
+	  <Folder Include="ViewModels\" />
+	  <Folder Include="Images\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+	  <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
+	  <PackageReference Include="SQLiteNetExtensions.Async" Version="2.1.0" />
+      <PackageReference Include="SQLitePCLRaw.core" Version="2.1.0" />
+      <PackageReference Include="SQLitePCLRaw.bundle_green" Version="2.1.0" />
+      <PackageReference Include="SQLitePCLRaw.provider.dynamic_cdecl" Version="2.1.0" />
+      <PackageReference Include="SQLitePCLRaw.provider.sqlite3" Version="2.1.0" />
+	  <PackageReference Include="CommunityToolkit.Mvvm" Version="8.0.0-preview4" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="PageViews\MainPage.xaml.cs">
+	    <DependentUpon>MainPage.xaml</DependentUpon>
+	    <SubType>Code</SubType>
+	  </Compile>
+	</ItemGroup>
+	<ItemGroup>
+	  <MauiXaml Condition=" '$(EnableDefaultXamlItems)' == 'true' " Update="PageViews\MainPage.xaml">
+	    <SubType>Designer</SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="PageViews\Userprofile.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="PageViews\Busyloginpage.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="PageViews\Busynewuser.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="PageViews\Busypassrest.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="PageViews\Userlist.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="PageViews\Messages.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="PageViews\BusyProductDetailsPage.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="PageViews\AddProductsPage.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	</ItemGroup>
+	<ItemGroup>
+	  <MauiImage Remove="Resources\Images\icon_wishlist.png" />
+	  <MauiImage Remove="Resources\Images\icon_history.png" />
+	  <MauiImage Remove="Resources\Images\devices.png" />
+	  <MauiImage Remove="Resources\Images\down.png" />
+	  <MauiImage Remove="Resources\Images\chart.png" />
+	  <MauiImage Remove="Resources\Images\icon_exit.png" />
+	  <MauiImage Remove="Resources\Images\Shape.png" />
+	  <MauiImage Remove="Resources\Images\icon_location.png" />
+	  <MauiImage Remove="Resources\Images\icon_home.png" />
+	  <MauiImage Remove="Resources\Images\profile.png" />
+	  <MauiImage Remove="Resources\Images\icon_alert.png" />
+	  <MauiImage Remove="Resources\Images\icon_payment.png" />
+	  <MauiImage Remove="Resources\Images\edit.png" />
+	  <MauiImage Remove="Resources\Images\star.png" />
+	  <MauiImage Remove="Resources\Images\more.png" />
+	  <MauiImage Remove="Resources\Images\icon_order.png" />
+	</ItemGroup>
+</Project>
